@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>869253145878-qllkrl17i478r80ijtme4g7cp9n4dj0g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.869253145878-qllkrl17i478r80ijtme4g7cp9n4dj0g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB4J5HqOR53TJQF9XrfwdTTK16eFfNZtt4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>869253145878</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mrc.gorays</string>
+	<key>PROJECT_ID</key>
+	<string>gorays-ffa55</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gorays-ffa55.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:869253145878:ios:ebe2aaeffae3e81f295c37</string>
+</dict>
+</plist>
